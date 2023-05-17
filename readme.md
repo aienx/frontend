@@ -4,24 +4,24 @@ This repository contains a collection of frontend projects I have built. Each pr
 
 ## Project 1: Akuapem Presbytery Website
 
-![Project Name](project1-screenshot.png)
+![Project Name](https://github.com/aienx/frontend/blob/main/presby.png)
 
-Description: Briefly describe the project, highlighting its purpose, features, and technologies used.
+Description: Website built for Akuapem Presbytery Organization.
 
 [View Project](link-to-project1)
 
 ## Project 2: Personal Project ( 3D Shop v1 )
 
-![Project Name](project2-screenshot.png)
+![Project Name](https://github.com/aienx/frontend/blob/main/3d.png)
 
-Description: Briefly describe the project, highlighting its purpose, features, and technologies used.
+Description: A 3d printing shop website that showcases and markets their services
 
 [View Project](link-to-project2)
 
-## Project 3: Project Name
+## Project 3: Personal Project ( Hair Force )
 
-![Project Name](project3-screenshot.png)
+![Project Name](https://github.com/aienx/frontend/blob/main/3d.png)
 
-Description: Briefly describe the project, highlighting its purpose, features, and technologies used.
+Description: A barber hair service website to market their services
 
 [View Project](link-to-project3)
