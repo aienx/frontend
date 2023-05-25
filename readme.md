@@ -23,7 +23,7 @@ Description: A 3d printing shop website that showcases and markets their service
 
 ## Project 3: Personal Project ( Hair Force )
 
-![Project Name](https://github.com/aienx/frontend/blob/main/3d.png)
+![Project Name](https://github.com/aienx/frontend/blob/main/.hairng)
 
 Description: A barber hair service website to market their services
 
